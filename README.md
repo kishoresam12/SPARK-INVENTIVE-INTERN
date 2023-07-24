@@ -3,3 +3,4 @@ Todays class was about creating logos on photoshop using a couple of tools avail
 The class was about creating colour gradients in adobe Photoshop.
 Today's class was about a couple of tools in adobe Illustrator. 
 Learnt how to create a logo wisely.
+Learnt how to create a better ui/ux and also about the colour gradient.
