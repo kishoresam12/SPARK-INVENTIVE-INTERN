@@ -9,3 +9,4 @@ Today's class was about creating logo page and login page with the help of Illus
 The class was about creating logo,login and signup pages in Figma application.Also learnt about a couple of tools.
 Learnt about the plugins in Figma application and sketched Whatsapp ui.
 Today's class was about prototypes in Figma application and also sketched gmail ui.
+The class was about alignment in figma app.Also saw about few plugins.
