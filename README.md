@@ -10,3 +10,4 @@ The class was about creating logo,login and signup pages in Figma application.Al
 Learnt about the plugins in Figma application and sketched Whatsapp ui.
 Today's class was about prototypes in Figma application and also sketched gmail ui.
 The class was about alignment in figma app.Also saw about few plugins.
+Today's class was about designing a fully functional app in Figma.
