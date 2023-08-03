@@ -11,3 +11,4 @@ Learnt about the plugins in Figma application and sketched Whatsapp ui.
 Today's class was about prototypes in Figma application and also sketched gmail ui.
 The class was about alignment in figma app.Also saw about few plugins.
 Today's class was about designing a fully functional app in Figma.
+The class was about designing a fully functional application in Figma.
